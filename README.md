@@ -1,4 +1,4 @@
-# mail-script
+# attendees-script
 A script to execute in browser console to send the "list of all attendees" mail
 
 ## How to send the "list of all attendees" email
